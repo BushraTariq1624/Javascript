@@ -1,31 +1,31 @@
-// //question 1
-// var multiarray= [[],[],[],[]];
+//question 1
+var multiarray= [[],[],[],[]];
 
-// //question2
-// var array = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
-// for(var i=0;i<array.length;i++){
-//     for(var j=0;j<array[i].length;j++){
-//         document.write(array[i][j]);
-//     }
-//     document.write("</br>")
-// }
-// document.write("</br>")
+//question2
+var array = [[0,1,2,3],[1,0,1,2],[2,1,0,1]];
+for(var i=0;i<array.length;i++){
+    for(var j=0;j<array[i].length;j++){
+        document.write(array[i][j]);
+    }
+    document.write("</br>")
+}
+document.write("</br>")
 
-// //question 3
-// for (var i=1;i<=10;i++){
-//     document.write(i,"</br>")
-// }
-// document.write("</br>")
+//question 3
+for (var i=1;i<=10;i++){
+    document.write(i,"</br>")
+}
+document.write("</br>")
 
-// //question 4
-// var table=+prompt("Enter a number to show its multiplication table:");
-// var table_lgth=+prompt("Enter length of ultiplication table:");
-// document.write("Multiplication Table Of ",table,"</br>");
-// document.write("Length ",table_lgth,"</br>");
-// for(var i=1;i<=table_lgth;i++){
-//     document.write(table," x ",i," = ",table*i,"</br>");
-// }
-// document.write("</br>")
+//question 4
+var table=+prompt("Enter a number to show its multiplication table:");
+var table_lgth=+prompt("Enter length of ultiplication table:");
+document.write("Multiplication Table Of ",table,"</br>");
+document.write("Length ",table_lgth,"</br>");
+for(var i=1;i<=table_lgth;i++){
+    document.write(table," x ",i," = ",table*i,"</br>");
+}
+document.write("</br>")
 
 //question 5
 var fruits = ["apple", "banana","mamgo","orange","strawberry"];
