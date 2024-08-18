@@ -1,0 +1,4 @@
+function more(){
+    var moreText=document.getElementById("moreText")
+    moreText.innerHTML="<h1>What Is Marketing?</h1>"+"Marketing refers to the activities a company undertakes to promote the buying or selling of its products or services. Marketing includes advertising and allows businesses to sell products and services to consumers, other businesses, and organizations.</br></br>"+"Professionals who work in a corporation's marketing and promotion departments seek to get the attention of key potential audiences through advertising. Promotions are targeted to certain audiences and may involve celebrity endorsements, catchy phrases or slogans, memorable packaging or graphic designs, and overall media exposure."
+}
